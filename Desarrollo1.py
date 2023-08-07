@@ -91,7 +91,7 @@ def calcular():
         numDeniv3 = entradaNumDeniv3.get()
         tipDeEst4 = entradatipDeEst4.get()
         zonaSis5 =	entradaZonaSis5 .get()
-        tipSuelo6	= entradaTipSuelo6.get()
+        tipSuelo6 = entradaTipSuelo6.get()
         coefSis7 =	entradaCoefSis7.get()
         facCompSis8	= entradaFacCompSis8.get()
         coefSisRed9	= entradaCoefSisRed9.get()
